@@ -24,3 +24,6 @@ Tableau Visualization Link: https://public.tableau.com/profile/stella2446#!/vizh
 
 ![Screen Shot 2021-03-13 at 8 20 03 PM](https://user-images.githubusercontent.com/70276685/111054305-8a1b9d80-8439-11eb-8419-06b3ddb8d49e.png)
 * The most popular locations to start and end an user’s journey has similar locations such as lower Manhattan/Central Park regions which is reassuring that increase number of Citi Bikes placed in those popular locations will continue to stay in rotation. Citi Bike employees can be assigned to zip codes to provide adequate coverage. 
+
+---
+**Contact:** stellakk75@gmail.com
