@@ -1,5 +1,9 @@
 # Citi Bike Analytics Using Tableau 
 
+### PROJECT INTENT
+* Analyze for unexpected phenomenas within CitiBike data
+* Create a Tableau visualization dashboard accompanied with written analysis for non-data industry stakeholders 
+
 ## CitiBike January 2021 Analysis 
 
 Tableau Visualization Link: https://public.tableau.com/profile/stella2446#!/vizhome/ny_16133661618870/NYCitiBikeJanuary2021_1
